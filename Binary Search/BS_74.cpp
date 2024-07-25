@@ -48,6 +48,7 @@ bool searchMatrix(vector<vector<int>> &matrix, int target)
             return false;
         }
     }
+    return false;
 }
 
 int main(int argc, char const *argv[])
